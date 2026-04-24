@@ -34,8 +34,8 @@ Visualization: Plotly, Matplotlib, SHAP (XAI)
 
 Database: MySQL (ETL), SQLite (Deployment)
 
-Deployment: Streamlit Cloud
+Deployment: Huggingface Spaces
 
-🔗https://walmart-sales-demand-forcasting-cysj6hbx88wee3dwumjeie.streamlit.app/
+🔗https://huggingface.co/spaces/Furqan2006/walmart_sales_insight
 
 In retail, understocking leads to lost revenue, while overstocking increases holding costs. This engine solves that by providing data-driven forecasts. Moreover, by adding SHAP explanations, we build trust with business stakeholders by showing them exactly which factors (like Holidays or Last Week's performance) are impacting the numbers.
